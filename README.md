@@ -1,1 +1,1 @@
-This template uses the block and color schme of BITS-Pilani.
+This template uses the block and color scheme of BITS-Pilani.
